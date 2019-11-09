@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74da3989.chunk.css",
+    "main.js": "/static/js/main.a9f5b575.chunk.js",
+    "main.js.map": "/static/js/main.a9f5b575.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2154f7ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2154f7ae.js.map",
+    "static/css/2.0624914a.chunk.css": "/static/css/2.0624914a.chunk.css",
+    "static/js/2.69940b7c.chunk.js": "/static/js/2.69940b7c.chunk.js",
+    "static/js/2.69940b7c.chunk.js.map": "/static/js/2.69940b7c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ccd50472ff0129c472fecbfc28d94bc5.js": "/precache-manifest.ccd50472ff0129c472fecbfc28d94bc5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.74da3989.chunk.css.map": "/static/css/main.74da3989.chunk.css.map",
+    "static/media/github_icon.svg": "/static/media/github_icon.07883e93.svg",
+    "static/media/portrait.jpg": "/static/media/portrait.284580bf.jpg",
+    "static/media/resume.pdf": "/static/media/resume.45cc70ad.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2154f7ae.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.69940b7c.chunk.js",
+    "static/css/main.74da3989.chunk.css",
+    "static/js/main.a9f5b575.chunk.js"
+  ]
+}
