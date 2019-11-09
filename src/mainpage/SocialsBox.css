@@ -1,0 +1,27 @@
+.name {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 7vh;
+    padding-bottom: 4vh;
+}
+
+.portrait {
+    text-align: center;
+    display: block;
+}
+
+.portrait-img {
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width:60vw;
+    max-height:60vh;
+    width: auto;
+    height: 60vh;
+}
+
+.socials {
+    padding-top: 4vh;
+    text-align: center;
+}
+
+.social-icon {
+    height: 7vh;
+}
